@@ -2,7 +2,7 @@ import React from 'react'
 
 import accessories from '../assets/accessories.png'
 import dress from '../assets/dress.png'
-import women_handbags from '../assets/women_handbags.png'
+import women_Handbags from '../assets/women_Handbags.png'
 import hat from '../assets/hat.png'
 import heels from '../assets/heels.png'
 
@@ -33,7 +33,7 @@ const Collection = () => {
       count: '448',
       color: 'bg-pink-100',
       textColor: 'text-pink-950',
-      image: women_handbags
+      image: women_Handbags
     },
     {
       id: 4,
